@@ -1,0 +1,42 @@
+
+
+What is numpy and explain 
+what is matplolib and explain
+what is imutils and explain
+what is easyocr and explain
+what is opencv and explain
+
+
+
+Read in Image , Grayscale and Blur
+Apply filter and find edges for localization
+Find contours and apply mask
+Use easyOCR to read Text 
+Render Result
+
+Library-------
+opencv-python
+matplotlib
+imutils
+easyocr
+
+#ffaa00 = orange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://towardsdatascience.com/computer-vision-detecting-objects-using-haar-cascade-classifier-4585472829a9
